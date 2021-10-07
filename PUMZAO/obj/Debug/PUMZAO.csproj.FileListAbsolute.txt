@@ -1,0 +1,6 @@
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\bin\Debug\PUMZAO.exe.config
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\bin\Debug\PUMZAO.exe
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\bin\Debug\PUMZAO.pdb
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\obj\Debug\PUMZAO.csproj.CoreCompileInputs.cache
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\obj\Debug\PUMZAO.exe
+C:\Users\ReneAndroid.apk\source\repos\PUMZAO\PUMZAO\obj\Debug\PUMZAO.pdb
